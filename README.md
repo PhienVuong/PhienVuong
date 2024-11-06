@@ -1,8 +1,10 @@
-### Hi 🙌 I'm ***Phuong Vien*** ✨
-![]https://i.imgur.com/l6moi9F.jpeg
-<h6 align="center">I am a ~~clumsy~~ student majoring Artificial Intelligence.</h6>
+# <h1 align="center">Hi 🙌 I'm ***Phuong Vien*** ✨</h1>
 
+![](https://i.imgur.com/l6moi9F.jpeg)
 
+# <h3 align="center">I am a ~clumsy~ student majoring Artificial Intelligence.</h3>
+
+# 🐳 Get to know me
 - 🏫 Study at [The University of Information Technology, Vietnam International University - Ho Chi Minh City](https://www.uit.edu.vn/).
 - 💻 Currently learning Python and C++.
 - 🐥 Totally a newbie in coding.
