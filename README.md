@@ -8,7 +8,7 @@
 - 🏫 Study at [The University of Information Technology, Vietnam International University - Ho Chi Minh City](https://www.uit.edu.vn/).
 - 💻 Currently learning Python and C++.
 - 🐥 Totally a newbie in coding.
-- 🥹 $${\color{lightblue}I \space am \space not \space only \space broken \space but \space also \space broke, \space so \space if \space you'd \space like \space to \space treat \space me \space to \space breakfast, \space here \space are \space my \space bank \space accounts:}$$ <br/>
+- 🥹 $${\color{aqua}I \space am \space not \space only \space broken \space but \space also \space broke, \space so \space if \space you'd \space like \space to \space treat \space me \space to \space breakfast, \space here \space are \space my \space bank \space accounts:}$$ <br/>
    [<img src='https://upload.wikimedia.org/wikipedia/vi/8/85/Vietcombank_Logo.png' height='35'>](https://imgur.com/a/alID36H) [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_MB_new.png/1200px-Logo_MB_new.png' height='40'>](https://imgur.com/a/hJp1VoI)
 <br><br>
 # 💻 Languages
