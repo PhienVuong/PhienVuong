@@ -1,4 +1,6 @@
-# <h1 align="center">Hi, I'm Phuong Vien!</h1>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=48bfe3&height=120&section=header" alt="header"/> 
+<h1 align="center">Hi, I'm Phuong Vien!</h1>
 
 ![](https://i.imgur.com/l6moi9F.jpeg)
 
@@ -12,7 +14,7 @@
 </a>
 </div>
 
-# 🐳 Get to know me
+## 🐳 Get to know me
 - 🏫 Study at [The University of Information Technology, Vietnam International University - Ho Chi Minh City](https://www.uit.edu.vn/).
 - 💻 Currently learning Python and C++.
 - 🐥 Totally a newbie in coding.
@@ -21,7 +23,7 @@
 <br></br>
 >
 <br><br>
-# 💻 Skill Set
+## 💻 Skill Set
 
 <table><tr><td valign="top" width="25%">
 
@@ -52,11 +54,12 @@
 </tr></table>
 <br><br>
 
-# 🌘 My Github Stats
+## 🌘 My Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=PhienVuong&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PhienVuong&theme=catppuccin_mocha&hide_border=false)<br/>
+<br><br>
 
-# <h1 align="center">🙌 Find me 🙌</h1> 
+<h2 align="center">🙌 Find me 🙌</h2> 
 <p align="center">
 <a href="https://www.facebook.com/profile.php?id=61565743432277"blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" alt="nfbldfnbl" height="40" width="40" /></a>
 <a href="https://instagram.com/fwnvyn/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="nkndkj" height="40" width="40" /></a>
