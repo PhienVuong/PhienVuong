@@ -1,4 +1,5 @@
-# <h1 align="center">Hi, I'm ***Phuong Vien*** ✨</h1>
+# <h1 align="center">Hi, I'm <code style="color: aqua;">***Phuong Vien***</code> ✨</h1>
+$${\color{lightblue}Phuong \space Vien}$$
 
 ![](https://i.imgur.com/l6moi9F.jpeg)
 
@@ -18,8 +19,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=PhienVuong&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PhienVuong&theme=catppuccin_mocha&hide_border=false)<br/>
 
-# 🔎 Find me
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png' height='40'>](https://www.facebook.com/profile.php?id=61565743432277)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png' height='40'>](https://github.com/PhienVuong) 
+
+# <h1 align="center">🔎 Find me </h1>
+ [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png' height='40'>](https://www.facebook.com/profile.php?id=61565743432277)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png' height='40'>](https://github.com/PhienVuong) 
+
 
 [![](https://visitcount.itsvg.in/api?id=PhienVuong&icon=0&color=0)](https://visitcount.itsvg.in)
 
