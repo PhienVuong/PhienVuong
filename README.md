@@ -24,7 +24,7 @@
 
 <table><tr><td valign="top" width="25%">
 
-### Frontend  
+### <h3 align="center">Frontend</h3>
 <a href="https://github.com/tayyabadev">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=html&perline=4" /> 
@@ -32,7 +32,7 @@
 </a>
 </td><td valign="top" width="30%">
         
-### Languages
+### <h3 align="center">Languages</h3>
 <a href="https://github.com/PhienVuong">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=python,cpp&perline=4" /> 
@@ -41,7 +41,7 @@
 
 </td><td valign="top" width="50%">
   
-### Others
+### <h3 align="center">Others</h3>
 <a href="https://github.com/PhienVuong">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=4" /> 
