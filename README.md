@@ -56,8 +56,8 @@
 <br></br>
 
 ## 🌘 My Github Stats
-![](https://github-readme-stats.vercel.app/api?username=PhienVuong&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=PhienVuong&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=PhienVuong&show_icons=true&theme=catppuccin_mocha)
+![](https://github-readme-streak-stats.herokuapp.com/?user=PhienVuong&theme=catppuccin_mocha&hide_border=false)
 <br></br>
 
 <h2 align="center">🙌 Find me 🙌</h2> 
