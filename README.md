@@ -22,12 +22,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PhienVuong&theme=catppuccin_mocha&hide_border=false)<br/>
 
 
-# 🔎 Find me
+# <h1 align="center">🙌 Find me 🙌</h1> 
 <div align="center">
 <a href="https://www.facebook.com/profile.php?id=61565743432277" target="blank">
- <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png' height='40' alt="Phien-Vuong-facebook> [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png' height='40'>](https://github.com/PhienVuong) 
+ <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png' height='50' alt="Phien-Vuong-facebook"/> 
+    </a> 
+   <a href="https://www.instagram.com/fwnvyn/" target="blank">
+ <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png' height='50' alt="Phien-Vuong-instagram"/> 
+    </a> 
 </div>
-
 
 [![](https://visitcount.itsvg.in/api?id=PhienVuong&icon=0&color=0)](https://visitcount.itsvg.in)
 
