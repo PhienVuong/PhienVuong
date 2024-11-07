@@ -2,7 +2,10 @@
 
 ![](https://i.imgur.com/l6moi9F.jpeg)
 
-<h3 align="center"><i>I am a <s>clumsy</s> student majoring Artificial Intelligence.</i></h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=48bfe3&center=true&vCenter=true&width=435&lines=Computer+Science;Artificial+Intelligence;Young,+Dumb+And+Broke;" alt="Typing SVG" />
+
+</p>
 
 # 🐳 Get to know me
 - 🏫 Study at [The University of Information Technology, Vietnam International University - Ho Chi Minh City](https://www.uit.edu.vn/).
@@ -14,14 +17,20 @@
 # 💻 Languages
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <br><br>
-# 🌘 My Stats
+# 🌘 My Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=PhienVuong&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PhienVuong&theme=catppuccin_mocha&hide_border=false)<br/>
 
 
 # 🔎 Find me
- [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png' height='40'>](https://www.facebook.com/profile.php?id=61565743432277)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png' height='40'>](https://github.com/PhienVuong) 
+<div align="center">
+<a href="https://www.facebook.com/profile.php?id=61565743432277" target="blank">
+ <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png' height='40' alt="Phien-Vuong-facebook> [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png' height='40'>](https://github.com/PhienVuong) 
+</div>
 
 
 [![](https://visitcount.itsvg.in/api?id=PhienVuong&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
 
