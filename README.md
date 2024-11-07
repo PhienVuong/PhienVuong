@@ -4,8 +4,13 @@
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=48bfe3&center=true&vCenter=true&width=435&lines=Computer+Science;Artificial+Intelligence;Young,+Dumb+And+Broke;" alt="Typing SVG" />
-
 </p>
+
+<div align="center">
+<a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=PhienVuong&icon=0&color=0" alt="Visitor Count">
+</a>
+</div>
 
 # 🐳 Get to know me
 - 🏫 Study at [The University of Information Technology, Vietnam International University - Ho Chi Minh City](https://www.uit.edu.vn/).
@@ -21,7 +26,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=PhienVuong&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PhienVuong&theme=catppuccin_mocha&hide_border=false)<br/>
 
-
 # <h1 align="center">🙌 Find me 🙌</h1> 
 <div align="center">
 <a href="https://www.facebook.com/profile.php?id=61565743432277" target="blank">
@@ -32,7 +36,10 @@
     </a> 
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=PhienVuong&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+
 
 
 
