@@ -22,7 +22,7 @@
    [<img src='https://upload.wikimedia.org/wikipedia/vi/8/85/Vietcombank_Logo.png' height='35'>](https://i.imgur.com/3is8p6b.png) [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_MB_new.png/1200px-Logo_MB_new.png' height='40'>](https://i.imgur.com/0IUY7PB.png) 
 <br></br>
 >
-<br><br>
+
 ## 💻 Skill Set
 
 <table><tr><td valign="top" width="25%">
@@ -52,12 +52,12 @@
 </a>
 </td>
 </tr></table>
-<br><br>
+
 
 ## 🌘 My Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=PhienVuong&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PhienVuong&theme=catppuccin_mocha&hide_border=false)<br/>
-<br><br>
+
 
 <h2 align="center">🙌 Find me 🙌</h2> 
 <p align="center">
