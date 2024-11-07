@@ -19,9 +19,38 @@
 - 🥹 $${\color{#48bfe3}I \space am \space not \space only \space broken \space but \space also \space broke, \space so \space if \space you'd \space like \space to \space treat \space me \space to \space breakfast, \space here \space are \space my \space bank \space accounts:}$$ <br/>
    [<img src='https://upload.wikimedia.org/wikipedia/vi/8/85/Vietcombank_Logo.png' height='35'>](https://i.imgur.com/3is8p6b.png) [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_MB_new.png/1200px-Logo_MB_new.png' height='40'>](https://i.imgur.com/0IUY7PB.png)
 <br><br>
-# 💻 Languages
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+
+# 💻 Skill Set
+
+<table><tr><td valign="top" width="25%">
+
+### Frontend  
+<a href="https://github.com/tayyabadev">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html&perline=4" /> 
+</div>
+</a>
+</td><td valign="top" width="30%">
+        
+### Languages
+<a href="https://github.com/PhienVuong">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=python,cpp&perline=4" /> 
+</div>
+</a>
+
+</td><td valign="top" width="50%">
+  
+### Others
+<a href="https://github.com/PhienVuong">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=4" /> 
+</div>
+</a>
+</td>
+</tr></table>
 <br><br>
+
 # 🌘 My Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=PhienVuong&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PhienVuong&theme=catppuccin_mocha&hide_border=false)<br/>
@@ -35,6 +64,9 @@
  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png' height='50' alt="Phien-Vuong-instagram"/> 
     </a> 
 </div>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=48bfe3&center=true&vCenter=true&width=435&lines=Thank+You+For+Visiting+<3;" alt="Typing SVG" /> </p>
 
 
 
