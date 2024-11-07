@@ -1,15 +1,14 @@
-# <h1 align="center">Hi, I'm <code style="color: aqua;">***Phuong Vien***</code> ✨</h1>
-$${\color{lightblue}Phuong \space Vien}$$
+# <h1 align="center">Hi, I'm ***Phuong Vien*** ✨</h1>
 
 ![](https://i.imgur.com/l6moi9F.jpeg)
 
-<h3 align="center">I am a <s>clumsy</s> student majoring Artificial Intelligence.</h3>
+<h3 align="center"><i>I am a <s>clumsy</s> student majoring Artificial Intelligence.</i></h3>
 
 # 🐳 Get to know me
 - 🏫 Study at [The University of Information Technology, Vietnam International University - Ho Chi Minh City](https://www.uit.edu.vn/).
 - 💻 Currently learning Python and C++.
 - 🐥 Totally a newbie in coding.
-- 🥹 I'm not only broken but also broke, so if you'd like to treat me to breakfast, here are my bank accounts: <br/>
+- 🥹 $${\color{lightblue}I \space am \space not \space only \space broken \space but \space also \space broke, \space so \space if \space you'd \space like \space to \space treat \space me \space to \space breakfast, \space here \space are \space my \space bank \space accounts:}$$ <br/>
    [<img src='https://upload.wikimedia.org/wikipedia/vi/8/85/Vietcombank_Logo.png' height='35'>](https://imgur.com/a/alID36H) [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_MB_new.png/1200px-Logo_MB_new.png' height='40'>](https://imgur.com/a/hJp1VoI)
 <br><br>
 # 💻 Languages
@@ -20,7 +19,7 @@ $${\color{lightblue}Phuong \space Vien}$$
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PhienVuong&theme=catppuccin_mocha&hide_border=false)<br/>
 
 
-# <h1 align="center">🔎 Find me </h1>
+# 🔎 Find me
  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png' height='40'>](https://www.facebook.com/profile.php?id=61565743432277)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png' height='40'>](https://github.com/PhienVuong) 
 
 
