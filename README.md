@@ -9,7 +9,7 @@
 - 💻 Currently learning Python and C++.
 - 🐥 Totally a newbie in coding.
 - 🥹 $${\color{#48bfe3}I \space am \space not \space only \space broken \space but \space also \space broke, \space so \space if \space you'd \space like \space to \space treat \space me \space to \space breakfast, \space here \space are \space my \space bank \space accounts:}$$ <br/>
-   [<img src='https://upload.wikimedia.org/wikipedia/vi/8/85/Vietcombank_Logo.png' height='35'>](https://imgur.com/a/alID36H) [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_MB_new.png/1200px-Logo_MB_new.png' height='40'>](https://imgur.com/a/hJp1VoI)
+   [<img src='https://upload.wikimedia.org/wikipedia/vi/8/85/Vietcombank_Logo.png' height='35'>](https://i.imgur.com/3is8p6b.png) [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_MB_new.png/1200px-Logo_MB_new.png' height='40'>](https://i.imgur.com/0IUY7PB.png)
 <br><br>
 # 💻 Languages
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
