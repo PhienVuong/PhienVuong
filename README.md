@@ -57,37 +57,18 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PhienVuong&theme=catppuccin_mocha&hide_border=false)<br/>
 
 # <h1 align="center">🙌 Find me 🙌</h1> 
-<div align="center">
-<a href="https://www.facebook.com/profile.php?id=61565743432277" target="blank">
- <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png' height='50' alt="Phien-Vuong-facebook"/> 
-    </a> 
-   <a href="https://www.instagram.com/fwnvyn/" target="blank">
- <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png' height='50' alt="Phien-Vuong-instagram"/> 
-    </a> 
-</div>
-
-<p align="center">
-<a href="https://www.facebook.com/profile.php?id=61565743432277" target="blank">
- <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png'alt="Phien-Vuong-facebook" heigh="30" width="40"/> 
-    </a> 
-   <a href="https://www.instagram.com/fwnvyn/" target="blank">
- <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png' alt="Phien-Vuong-instagram" heigh="30" width=40"/> 
-    </a> 
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=48bfe3&center=true&vCenter=true&width=435&lines=Thank+You+For+Visiting+<3;Have+A+Great+Day!;" alt="Typing SVG" /> </p>
-
 <p align="center">
 <a href="https://www.facebook.com/profile.php?id=61565743432277"blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" alt="nfbldfnbl" height="40" width="40" /></a>
 <a href="https://instagram.com/fwnvyn/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="nkndkj" height="40" width="40" /></a>
 </p>
 
-
 <p align="center">
-<a href="https://www.facebook.com/profile.php?id=61565743432277="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nfbldfnbl" height="30" width="40" /></a>
-<a href="https://instagram.com/fwnvyn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nkndkj" height="30" width="40" /></a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=48bfe3&center=true&vCenter=true&width=435&lines=Thank+You+For+Visiting+<3;Have+A+Great+Day!;" alt="Typing SVG" /> </p>
+
+
+
+
+
 
 
 
