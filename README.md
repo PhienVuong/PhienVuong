@@ -1,4 +1,4 @@
-# <h1 align="center">Hi, I'm ***Phuong Vien*** ✨</h1>
+# <h1 align="center">Hi, I'm Phuong Vien!</h1>
 
 ![](https://i.imgur.com/l6moi9F.jpeg)
 
@@ -16,7 +16,7 @@
 - 🏫 Study at [The University of Information Technology, Vietnam International University - Ho Chi Minh City](https://www.uit.edu.vn/).
 - 💻 Currently learning Python and C++.
 - 🐥 Totally a newbie in coding.
-- 🥹 $${\color{#48bfe3}If \space you'd \space like \space to \space treat \space me \space to \space breakfast, \space here \space are \space my \space bank \space accounts:}$$ 
+> $${\color{#48bfe3}Wise \space men \space say: \space "When \space one \space gives, \space two \space get \space happy". \space Here \space are \space my \space bank \space accounts:}$$ 
    [<img src='https://upload.wikimedia.org/wikipedia/vi/8/85/Vietcombank_Logo.png' height='35'>](https://i.imgur.com/3is8p6b.png) [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_MB_new.png/1200px-Logo_MB_new.png' height='40'>](https://i.imgur.com/0IUY7PB.png)
 <br><br>
 
