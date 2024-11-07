@@ -1,4 +1,4 @@
-# <h1 align="center">Hi 🙌 I'm ***Phuong Vien*** ✨</h1>
+# <h1 align="center">Hi, I'm ***Phuong Vien*** ✨</h1>
 
 ![](https://i.imgur.com/l6moi9F.jpeg)
 
@@ -8,18 +8,18 @@
 - 🏫 Study at [The University of Information Technology, Vietnam International University - Ho Chi Minh City](https://www.uit.edu.vn/).
 - 💻 Currently learning Python and C++.
 - 🐥 Totally a newbie in coding.
-
+<br><br>
 # 💻 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<br><br>
 # 🌘 My Stats
-![](https://github-readme-stats.vercel.app/api?username=PhienVuong&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=PhienVuong&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PhienVuong&theme=catppuccin_mocha&hide_border=false)<br/>
 
 
 # 🔎 Find me
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PhienVuong)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=61565743432277)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/fwnvyn/)
- ---
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png' height='40'>](https://www.facebook.com/profile.php?id=61565743432277)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png' height='40'>](https://github.com/PhienVuong) 
+
 [![](https://visitcount.itsvg.in/api?id=PhienVuong&icon=0&color=0)](https://visitcount.itsvg.in)
 
   
