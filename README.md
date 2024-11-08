@@ -5,7 +5,7 @@
 ![](https://i.imgur.com/l6moi9F.jpeg)
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=40e0d0&center=true&vCenter=true&width=435&lines=Computer+Science;Artificial+Intelligence;Young,+Dumb+And+Broke;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3bd1b1&center=true&vCenter=true&width=435&lines=Computer+Science;Artificial+Intelligence;Young,+Dumb+And+Broke;" alt="Typing SVG" />
 </p>
 
 <div align="center">
