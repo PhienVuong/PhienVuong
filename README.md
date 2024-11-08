@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=34e4ea&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ba4fe6&height=120&section=header" alt="header"/> 
 <h1 align="center">Hi, I'm Phuong Vien!</h1>
 
 ![](https://i.imgur.com/l6moi9F.jpeg)
