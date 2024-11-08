@@ -5,7 +5,7 @@
 ![](https://i.imgur.com/l6moi9F.jpeg)
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=25becb&center=true&vCenter=true&width=435&lines=Computer+Science;Artificial+Intelligence;Young,+Dumb+And+Broke;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=74dbe7&center=true&vCenter=true&width=435&lines=Computer+Science;Artificial+Intelligence;Young,+Dumb+And+Broke;" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -18,7 +18,7 @@
 - Study at [The University of Information Technology, Vietnam International University - Ho Chi Minh City](https://www.uit.edu.vn/).
 - Currently learning Python and C++.
 - Totally a newbie in coding.
-> $${\color{#25becb}Wise \space men \space say: \space "When \space one \space gives, \space two \space get \space happy". \space Here \space are \space my \space bank \space accounts:}$$ 
+> $${\color{#74dbe7}Wise \space men \space say: \space "When \space one \space gives, \space two \space get \space happy". \space Here \space are \space my \space bank \space accounts:}$$ 
    [<img src='https://upload.wikimedia.org/wikipedia/vi/8/85/Vietcombank_Logo.png' height='35'>](https://i.imgur.com/3is8p6b.png) [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_MB_new.png/1200px-Logo_MB_new.png' height='40'>](https://i.imgur.com/0IUY7PB.png) 
 <br></br>
 >
