@@ -15,7 +15,7 @@
 </div>
 
 ## 🐳 Get to know me
-- Study at [The University of Information Technology, Vietnam International University - Ho Chi Minh City](https://www.uit.edu.vn/).
+- Study at [VNU-HCM University of Information Technology](https://www.uit.edu.vn/).
 - Currently learning Python and C++.
 - Totally a newbie in coding.
 > $${\color{#74dbe7}Wise \space men \space say: \space "When \space one \space gives, \space two \space get \space happy". \space Here \space are \space my \space bank \space accounts:}$$ 
