@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=26c7d9&height=120&section=header" alt="header"/> 
 <h1 align="center">Hi, I'm Phuong Vien!</h1>
 
-![](https://i.imgur.com/l6moi9F.jpeg)
+![](https://i.imgur.com/Vmu7WBo.jpeg)
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=74dbe7&center=true&vCenter=true&width=435&lines=Computer+Science;Artificial+Intelligence;Young,+Dumb+And+Broke;" alt="Typing SVG" />
